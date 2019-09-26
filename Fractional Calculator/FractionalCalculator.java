@@ -1,14 +1,3 @@
-/**********************************************************
- * Assignment: (Fractional Calculator)
- *
- * Author: (Nafis Rahman)
- *
- * Description: ( It's a calculator that can do basic operations with fractions. )
- *
- * Academic Integrity: I pledge that this program represents my own work. I
- * received help from (no one) in designing and debugging
- * my program.!
- **********************************************************/
 package fracCalc4;
 
 import java.util.Scanner;
